@@ -1,0 +1,13 @@
+https://10.29.103.24/api/node/mo/uni/tn-Tenant10/ctx-Main.json
+
+{
+  "fvTenant": {
+    "attributes": {
+      "dn": "uni/tn-Tenant10",
+      "name": "Tenant10",
+      "rn": "tn-Tenant10",
+      "status": "created"
+    },
+    "children": []
+  }
+}

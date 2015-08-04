@@ -1,0 +1,10 @@
+https://10.29.103.24/api/aaaLogin.json
+
+{
+  "aaaUser": {
+    "attributes": {
+      "name": "student1",
+      "pwd": "lumos123"
+    }
+  }
+}

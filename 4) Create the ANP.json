@@ -1,0 +1,13 @@
+https://10.29.103.24/api/node/mo/uni/tn-Tenant10/ap-Legacy_VLAN_EPGs.json
+
+{
+  "fvAp": {
+    "attributes": {
+      "dn": "uni/tn-Tenant10/ap-Legacy_VLAN_EPGs",
+      "name": "Legacy_VLAN_EPGs",
+      "rn": "ap-Legacy_VLAN_EPGs",
+      "status": "created"
+    },
+    "children": []
+  }
+}

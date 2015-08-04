@@ -1,0 +1,11 @@
+https://10.29.103.24/api/node/mo/uni/tn-Tenant10/ap-Legacy_VLAN_EPGs/epg-VLAN_101_10.10.1.1-24.json
+
+{
+  "fvRsCons": {
+    "attributes": {
+      "tnVzBrCPName": "default",
+      "status": "created,modified"
+    },
+    "children": []
+  }
+}

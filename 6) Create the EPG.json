@@ -1,0 +1,54 @@
+https://10.29.103.24/api/node/mo/uni/tn-Tenant10/ap-Legacy_VLAN_EPGs/epg-VLAN_101_10.10.1.1-24.json
+
+{
+  "fvAEPg": {
+    "attributes": {
+      "dn": "uni/tn-Tenant10/ap-Legacy_VLAN_EPGs/epg-VLAN_101_10.10.1.1-24",
+      "name": "VLAN_101_10.10.1.1-24",
+      "rn": "epg-VLAN_101_10.10.1.1-24",
+      "status": "created"
+    },
+    "children": [
+      {
+        "fvCrtrn": {
+          "attributes": {
+            "dn": "uni/tn-Tenant10/ap-Legacy_VLAN_EPGs/epg-VLAN_101_10.10.1.1-24/crtrn",
+            "name": "default",
+            "rn": "crtrn",
+            "status": "created,modified"
+          },
+          "children": []
+        }
+      },
+      {
+        "fvRsBd": {
+          "attributes": {
+            "tnFvBDName": "VLAN_101_10.4.1.1-24",
+            "status": "created,modified"
+          },
+          "children": []
+        }
+      },
+      {
+        "fvRsDomAtt": {
+          "attributes": {
+            "tDn": "uni/phys-phys",
+            "status": "created"
+          },
+          "children": []
+        }
+      },
+      {
+        "fvRsPathAtt": {
+          "attributes": {
+            "tDn": "topology/pod-1/paths-101/pathep-[eth1/1]",
+            "encap": "vlan-101",
+            "instrImedcy": "immediate",
+            "status": "created"
+          },
+          "children": []
+        }
+      }
+    ]
+  }
+}

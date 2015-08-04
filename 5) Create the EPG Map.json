@@ -1,0 +1,23 @@
+https://10.29.103.24/api/node/mo/uni/tn-Tenant10/cont.json
+
+{
+  "drawCont": {
+    "attributes": {
+      "dn": "uni/tn-Tenant10/cont",
+      "status": "created,modified"
+    },
+    "children": [
+      {
+        "drawInst": {
+          "attributes": {
+            "dn": "uni/tn-Tenant10/cont/item-[uni/tn-Tenant10/ap-Legacy_VLAN_EPGs]",
+            "oDn": "uni/tn-Tenant10/ap-Legacy_VLAN_EPGs",
+            "info": "{'undefined-fvAp':{'x':375,'y':-130}}",
+            "status": "created,modified"
+          },
+          "children": []
+        }
+      }
+    ]
+  }
+}
