@@ -3,7 +3,7 @@ https://10.29.103.24/api/aaaLogin.json
 {
   "aaaUser": {
     "attributes": {
-      "name": "student1",
+      "name": "student4",
       "pwd": "lumos123"
     }
   }
