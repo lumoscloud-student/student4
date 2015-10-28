@@ -6,3 +6,5 @@ XML the way
 JSON my son
 
 Another message
+
+Maz is Da Boss
