@@ -1,10 +1,7 @@
 # student4
 
-Vinod Need to Learn GIT 
-Search for Pythin Eggs
-XML the way
-JSON my son
+Hello Hola Hej!
 
-Another message
+1...2...3...
 
-Maz is Da Boss
+// Rickard
