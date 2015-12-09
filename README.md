@@ -10,3 +10,5 @@ Tomi is here
 >>>>>>> origin/master
 
 // Rickard
+
+It's a trap and the cake is a lie.
