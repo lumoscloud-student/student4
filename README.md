@@ -9,7 +9,7 @@ Tomi is here
 1...2...3...
 >>>>>>> origin/master
 
-// Rickard
+// Pavel
 
 It's a trap and the cake is a lie.
 
