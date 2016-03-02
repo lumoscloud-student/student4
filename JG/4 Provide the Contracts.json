@@ -1,0 +1,11 @@
+https://{{apic}}/api/node/mo/uni/tn-{{tenant}}/ap-{{anp-name}}/epg-{{epg-name}}.json
+
+{
+  "fvRsProv": {
+    "attributes": {
+      "tnVzBrCPName": "default",
+      "status": "created,modified"
+    },
+    "children": []
+  }
+}
